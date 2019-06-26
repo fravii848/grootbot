@@ -46,6 +46,7 @@ CREDITS_STRING = """ *Credits & Special Thanks To:*
 @SonOfLars -Base
 @raza231198
 @lukatthisman
+@Fraviin
 @Yasirsiddiqui """
 
 IMPORTED = {}
